@@ -1,4 +1,4 @@
-# Horiseon Seo Optimization : Code Refactoring
+# Code Refactoring : Horiseon Seo Optimization : 
 This repository is Code Refactoring project.  
 This simple project of one webpage with css shows how to clean the code for web _accessibility_.
 	
