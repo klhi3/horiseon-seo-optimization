@@ -13,3 +13,6 @@ This simple project of one webpage with css shows how to clean the code for web 
 ## Run
 To run this project,   
 click [Horiseon Seo Optimization](https://klhi3.github.io/horiseon-seo-optimization/)
+
+
+:copyright:klhi3
