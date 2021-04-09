@@ -11,8 +11,5 @@ This simple project of one webpage with css shows how to clean the code for web 
 5) a concise, descriptive title element
 	
 ## Run
-To run this project, use a web browser:
-
-```
-https://github.com/klhi3/horiseon-seo-optimization
-```
+To run this project, use a web browser:  
+[Horiseon Seo Optimization](https://klhi3.github.io/horiseon-seo-optimization/)
